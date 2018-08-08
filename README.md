@@ -1,1 +1,1 @@
-# my-1st-rep
+This repository must contain a docker file of a nginx with basic authorisation
